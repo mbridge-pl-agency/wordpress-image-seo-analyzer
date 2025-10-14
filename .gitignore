@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files
+*.xlsx
+*.json
+wp_posts_export.json
+wordpress_images.xlsx
+php_images_*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Environment variables
+.env
+*.key
+
+# Logs
+*.log
