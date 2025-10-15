@@ -45,8 +45,8 @@ This project provides two Python scripts to audit and optimize image alt texts a
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-organization/wordpress-image-accessibility-analyzer.git
-cd wordpress-image-accessibility-analyzer
+git clone https://github.com/wilczynskiwm/wordpress-image-seo-analyzer.git
+cd wordpress-image-seo-analyzer
 ```
 
 2. Install required packages:
