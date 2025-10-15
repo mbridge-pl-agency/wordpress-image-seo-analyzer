@@ -45,7 +45,7 @@ This project provides two Python scripts to audit and optimize image alt texts a
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/wilczynskiwm/wordpress-image-seo-analyzer.git
+git clone https://github.com/mbridge-pl-agency/wordpress-image-seo-analyzer.git
 cd wordpress-image-seo-analyzer
 ```
 
@@ -139,15 +139,6 @@ Proper alt text implementation provides:
 - **Better overall page SEO** - Alt text contributes to page relevance signals
 - **Enhanced user experience** - Users on slow connections see descriptive text while images load
 - **Increased traffic** - Images appearing in search results drive additional organic traffic
-
-## Security Notes
-
-Never commit files containing:
-- OpenAI API keys
-- WordPress database exports
-- Generated Excel files (may contain sensitive data)
-
-The `.gitignore` is configured to exclude these files automatically.
 
 ## Cost Estimation
 
